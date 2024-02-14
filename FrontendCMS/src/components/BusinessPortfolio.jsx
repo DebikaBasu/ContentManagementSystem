@@ -82,7 +82,7 @@ export default function BusinessPortfolio() {
                                 />
                             </svg>
                         </span>
-                        <span className="font-bold">Accentus</span>
+                        <span className="font-bold">CMS</span>
                     </div>
                     <div className="hidden lg:block">
                         <ul className="inline-flex space-x-8">

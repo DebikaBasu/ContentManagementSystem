@@ -21,7 +21,7 @@ const Footer = () => {
           </span>
           <div className="mt-4 grow md:ml-12 md:mt-0">
             <p className="text-base font-semibold text-gray-700">
-              © 2023 Accentus
+              © 2023 CMS
             </p>
           </div>
         </div>

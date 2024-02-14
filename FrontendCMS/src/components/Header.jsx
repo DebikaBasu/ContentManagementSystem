@@ -62,7 +62,7 @@ const Header = ({ isLogged, setIsLogged, user, openModal, setOpenModal }) => {
               />
             </svg>
           </span>
-          <span className="font-bold">Accentus</span>
+          <span className="font-bold">CMS</span>
         </div>
         <div className="hidden grow items-start lg:flex">
           <ul className="ml-12 inline-flex space-x-8">
